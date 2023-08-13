@@ -1,11 +1,7 @@
-body {
-    padding: 20px;
-}
-
 main {
     width: 150px;
     height: 150px;
-    background-color: #000;
+    background-color: #000000;
 }
 
 .hello-accio {
